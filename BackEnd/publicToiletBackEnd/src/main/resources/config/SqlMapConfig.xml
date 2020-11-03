@@ -10,7 +10,7 @@
 		<package name="com.pt.be.vo" />
 	</typeAliases>
 	<mappers>
-		<mapper resource="sql/mybatis-empservice-mapping.xml" />
+		<mapper resource="sql/user.mapping.xml" />
 	</mappers>
 	<!-- JUnit MyBatis 단위테스트용 -->
 </configuration>
